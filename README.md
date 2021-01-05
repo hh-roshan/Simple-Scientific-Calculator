@@ -10,4 +10,4 @@ Here we used some useful libraries. They are:
 </ul>
 <h2> Screenshots</h2>
 
-<img src="https://imgur.com/a/LYJ5fx7">
+![](images/Screenshot%20(250))
