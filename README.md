@@ -10,4 +10,4 @@ Here we used some useful libraries. They are:
 </ul>
 <h2> Screenshots</h2>
 
-![Scientific calculator](https://imgur.com/a/LYJ5fx7)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/LYJ5fx7" data-context="false" ><a href="//imgur.com/a/LYJ5fx7"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
